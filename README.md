@@ -1,7 +1,8 @@
 # AKAN CALCULATOR
 ## Author -
 bundiroberts
-##Description
+
+#Description
 The Akan calculator takes the user's birthday and calculates the day of the week they were born depending on their gender.
 Akan names are from Ghanian culture where first names are given as a day name that corresponds to the day of week they were born.
 #Installation Instructions
@@ -16,7 +17,7 @@ https://bundiroberts.github.io/akan/
  HTML
  CSS
  JAVASCRIPT
- 
+
  #Technologies Used
  Visual Studio Code
 
