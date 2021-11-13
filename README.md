@@ -9,8 +9,10 @@ Akan names are from Ghanian culture where first names are given as a day name th
 
 #Installation Instructions-
 
-clone the project
+clone the project 
+
 cd into the project folder
+
 Go to live server
 
 #Live link-
@@ -21,8 +23,11 @@ https://bundiroberts.github.io/akan/
 #Languages Used-
 
  HTML
+
  CSS
+
  JAVASCRIPT
+ 
 
  #Technologies Used-
 
