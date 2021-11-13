@@ -10,7 +10,7 @@ body {
 }
 .container{
      background-color:burlywood;
-     min-height: 100px;
+     min-height: 600px;
      width: 500px;
      margin: 100px auto;
      border-radius:5px;
@@ -18,9 +18,10 @@ body {
 }
 .base {
      width: 100%;
-     margin: 0;
+     margin: 0px;
      overflow:hidden;
      display: block;
+     padding:10px;
      
 
 }
@@ -41,7 +42,8 @@ body {
     padding: 4px 20px;
     margin-left: 20px;
     display:inline-block;
-    float: left;
+    
+    margin-top:30px;
 
 }
 .title {
@@ -66,9 +68,14 @@ body {
        padding: 14px 16px;
    }
 
-    .form-check {
-        margin: 20px;
-        padding: 20px;
+    
+    
+    
+        
+        
+        
+    
+        
 
 
-    }
+    
