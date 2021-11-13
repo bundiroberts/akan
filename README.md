@@ -3,25 +3,32 @@
 bundiroberts
 
 #Description -
+
 The Akan calculator takes the user's birthday and calculates the day of the week they were born depending on their gender.
 Akan names are from Ghanian culture where first names are given as a day name that corresponds to the day of week they were born.
 #Installation Instructions-
+
 clone the project
 cd into the project folder
 Go to live server
+
 #Live link-
+
 https://bundiroberts.github.io/akan/
 
 
 #Languages Used-
+
  HTML
  CSS
  JAVASCRIPT
 
  #Technologies Used-
+
  Visual Studio Code
 
  #License-
+ 
 MIT License-
 
 Copyright (c) [2021] [bundiroberts]
