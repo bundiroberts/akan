@@ -25,7 +25,7 @@
              width:100%;
 
           }
-       }
+          }
        </style>
        <body>
              <script src="js/main.js"></script>
@@ -39,23 +39,23 @@
           </h2>
 
          <div class="form-check">
-             <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+             <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1" checked>
               male
          </label>
          </div>
-         <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+         <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2">
              female
         </label>
         </div>
 
-        <label>year</label>
-        <input type="tel" maxlength=4 id="year"><br>
+        <label>Year</label>
+        <input type="tel" maxlength=4 id="Year"><br>
 
-        <label>month</label>
-        <input type="tel" maxlength=2 id="month"><br>
+        <label>Month</label>
+        <input type="tel" maxlength=2 id="Month"><br>
 
-        <label>day</label>
-        <input type="tel" maxlength=2 id="day"><br>
+        <label>Day</label>
+        <input type="tel" maxlength=2 id="Day"><br>
         
         <button onClick="a()">male</button>
         <button onClick="b()">female</button></form>
@@ -65,9 +65,9 @@
         <p id="result"></p>
 
  <script>
-        var year = document.getElementById("year");
-        var month = document.getElementById("month");
-        var day = document.getElementById("day");
+        var Year = document.getElementById("Year");
+        var Month = document.getElementById("Month");
+        var Day = document.getElementById("Day");
         var result = document.getElementById("result");
   
         function a(){
@@ -76,7 +76,7 @@
 
           switch(days)
           {
-            case 0:result.innerHTML="sunday"; 
+                case 0:result.innerHTML="sunday"; 
                 alert("your Akan name is kwasi");
                 break;
                 case 1:result.innerHTML="monday";
